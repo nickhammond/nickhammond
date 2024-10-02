@@ -6,7 +6,7 @@ More recently I've been helping companies migrate to and from the cloud with too
 
 I'm also working on building a deployment dashboard for Kamal called [Shipyrd](https://github.com/Shipyrd/shipyrd). 
 
-I currently have some time available for about 10 hours of contract work a week, send me an [email](nick@fromthekeyboard.com) if you'd like to chat.
+I currently have a small amount of time available for contract work, send me an [email](nick@fromthekeyboard.com) if you'd like to chat.
 
 ## Links
 * Email: [nick@fromthekeyboard.com](nick@fromthekeyboard.com)
