@@ -10,5 +10,5 @@ I currently have a small amount of time available for contract work, send me an 
 
 ## Links
 * Email: [nick@fromthekeyboard.com](nick@fromthekeyboard.com)
-* Web: [fromthekeyboard.com](fromthekeyboard.com)
+* Web: [fromthekeyboard.com](https://fromthekeyboard.com)
 * Buy me a coffee: [buymeacoffee.com/nickftk](https://buymeacoffee.com/nickftk)
