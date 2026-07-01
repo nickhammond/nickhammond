@@ -1,6 +1,6 @@
 # Hi, I'm Nick. 
 
-I’ve been working professionally on the internet building things for over 15 years. I’ve spent most of that time building Rails applications with a strong focus on Developer UX and DevOps.
+I’ve been working professionally on the internet building things for almost 20 years. I’ve spent most of that time building Rails applications with a strong focus on Developer UX and DevOps.
 
 More recently I've been helping companies migrate to and from the cloud with tools like Kamal and Terraform.
 
