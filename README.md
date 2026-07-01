@@ -8,9 +8,9 @@ I'm also working on building a deployment dashboard for Kamal called [Shipyrd](h
 
 I currently have a small amount of time available for contract work, send me an [email](nick@fromthekeyboard.com) if you'd like to chat.
 
+
 ## Links
 * Email: [nick@fromthekeyboard.com](mailto:nick@fromthekeyboard.com)
 * Web: [fromthekeyboard.com](https://fromthekeyboard.com)
+* LinkedIn: [linkedin.com/in/nickhammond](https://www.linkedin.com/in/nickhammond/)
 * Buy me a coffee: [buymeacoffee.com/nickftk](https://buymeacoffee.com/nickftk)
-* Chat about a contract project: [Calendly](https://calendly.com/nickftk/30)
-
